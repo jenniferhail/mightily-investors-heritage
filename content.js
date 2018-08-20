@@ -1,1 +1,1 @@
-console.log("eqmub")
+console.log("fnyic")
