@@ -1,2 +1,2 @@
 console.log("nnofw")
-console.log("gyhnc")
+console.log("egtkc")
